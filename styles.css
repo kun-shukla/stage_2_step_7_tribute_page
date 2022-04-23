@@ -1,46 +1,52 @@
 #main {
-    text-align: center;
-    font-family: arial;
-    background-color: #e6e6e6;
-    padding-bottom: 20px;
-  }
-  
-  #title {
-    text-align: center;
-    padding-top: 50px;
-    font-size: 45px
-  }
-  #img-div {
-    border-style: solid; 
-    text-align: center;
-    padding-top: 50px;
-    background-color: #e6e3d3;
-  }
-  
-  #image {
-    max-width: 100%;
-    display: block;
-    height: auto;
-    margin: 0 auto;
-  }
-  
-  #img-caption {
-   padding-top: 10px;
-   padding-bottom: 40px;
-   font-style:italic;
-  }
-  
-  #tribute-info {
-    
-  }
-  
-  #bullet-list {
-    text-align: left;
-    padding-bottom: 20px;
-  }
-  
-  #footer 
-  {
-    border-style: solid;
-    background-color: #e6e3d3;
-  }
+  text-align: center;
+  font-family: arial;
+  background-color: #e6e6e6;
+  padding-bottom: 20px;
+}
+#title {
+  text-align: center;
+  padding-top: 40px;
+  font-size: 45px
+}
+#sub-head {
+  padding-bottom: 10px; 
+  font-size: 17px;
+}
+#img-div {
+  border-style: solid; 
+  text-align: center;
+  padding-top: 50px;
+  background-color: #e6e3d3;
+}
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: 0 auto;
+}
+#img-caption {
+ padding-top: 10px;
+ padding-bottom: 25px;
+ font-style:italic;
+ font-size: 13px;
+}
+
+#info-heading {
+  padding-top: 17px;
+}
+
+#bullet-list {
+  text-align: left;
+  padding-top: 10px;
+}
+
+li {
+ padding-bottom: 15px;
+}
+
+#footer 
+{
+  border-style: solid;
+  background-color: #e6e3d3;
+}
